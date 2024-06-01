@@ -1,7 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=318FF7&random=false&width=435&lines=Hi%2C+I'm+Razvan+Troaca;I'm+an+aspiring+web%2Fsoftware+developer;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=318FF7&random=false&width=435&lines=Hi%2C+I'm+Razvan+Troaca;I'm+an+aspiring+web%2Fsoftware+developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG">
+  </a>
+</div>
 
-<h1 align="center">Hi 👋, I'm Razvan Troaca</h1>
-<h3 align="center">An aspiring web/software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razvantr10&label=Profile%20views&color=0e75b6&style=flat" alt="razvantr10" /> </p>
 
