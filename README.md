@@ -11,10 +11,19 @@
 
 ## Contact me:
 <div>
-<a href="[https://www.instagram.com/razvantr10/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: razvantroaca10@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/razvan-troaca-639834278/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.instagram.com/razvantr10/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:razvantroaca10@gmail.com" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/razvan-troaca-639834278/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
+
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=razvantr10&show_icons=true&locale=en&layout=compact" alt="razvantr10" /></p>
 
